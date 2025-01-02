@@ -1,0 +1,4 @@
+.DS_Store
+sat.*
+!sat.ml
+*.out
