@@ -1,7 +1,5 @@
 # SAT solver
 
-This is my implementation for the project given by [Prof S. MIMRAM](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/TD/2.sat.html).
-
 ## Compiling
 
 Simply run :
