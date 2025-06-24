@@ -1,0 +1,6 @@
+(tests
+ (names test_simple test_dpll test_sudoku test_cnf)
+ (libraries TD2)
+ (deps
+  (source_tree sat)
+  (source_tree unsat)))

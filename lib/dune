@@ -1,0 +1,4 @@
+(library
+ (public_name TD2)
+ (modules simple dpll sudoku cnf)
+ (name TD2))

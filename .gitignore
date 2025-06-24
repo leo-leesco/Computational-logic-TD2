@@ -2,3 +2,4 @@
 sat.*
 !sat.ml
 *.out
+_build

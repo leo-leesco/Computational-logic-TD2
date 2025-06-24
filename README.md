@@ -20,3 +20,7 @@ assert (dpll_pure_unit (parse "<file>"));
 ## Testing whether a sudoku has a solution (not necessarily unique)
 
 Add a new test case (at the end of the file) in the form of a 2D-array `[| [| … |] , … , [| … |] |]` with clues ranging `0-8` and blanks marked as `9`.
+
+## TODO
+
+Finish implementing the DPLL optimizations.
